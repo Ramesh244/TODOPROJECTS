@@ -1,0 +1,18 @@
+.projects-list {
+  list-style-type: none;
+  height: 400px;
+  width: 800px;
+}
+.row-value {
+  margin: 10px;
+}
+
+.edit-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.delete-icon {
+  height: 20px;
+  width: 20px;
+}
